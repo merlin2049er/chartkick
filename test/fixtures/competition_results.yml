@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sporter: one
+  competition: one
+  place: 1
+
+two:
+  sporter: two
+  competition: two
+  place: 1
